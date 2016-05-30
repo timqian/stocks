@@ -1,0 +1,4 @@
+{
+  "stockHistorySS": "http://table.finance.yahoo.com/table.csv?s=600000.ss",
+  "stockHistorySZ": "http://table.finance.yahoo.com/table.csv?s=000001.sz"
+}
